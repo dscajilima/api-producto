@@ -4,3 +4,13 @@ CREATE TABLE IF NOT EXISTS  productos (
   details VARCHAR(45) NULL,
   PRIMARY KEY (id)
   );
+
+
+
+
+
+
+
+
+
+
