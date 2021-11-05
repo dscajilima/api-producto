@@ -16,4 +16,7 @@ class ProductoService {
 
         return productoRepository.findAll()
     }
+    fun save(producto: Producto):Producto {
+        return productoRepository.save(producto)
+    }
 }
